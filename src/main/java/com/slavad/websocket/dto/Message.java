@@ -13,7 +13,7 @@ public class Message {
 
     /*
         In this project I am working only with random id of User.
-        But we also cat use sender for showing who was sender and recipient for showing who is recipient
+        But we also can use sender for showing who was sender and recipient for showing who is recipient
 
         private String sender;
         private String recipient;
